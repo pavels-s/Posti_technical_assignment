@@ -1,7 +1,7 @@
 Hi.
 
 In this repository you can find my solution for a technical assignment from Posti company.
-It was written using Robotframework 5.0.1 and SeleniumLibrary.
+It was written using Robotframework 5.0.1 and SeleniumLibrary in PyCharm 2022.1.4 IDE.
 
 Technical assignment:
 
