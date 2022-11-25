@@ -1,0 +1,24 @@
+Navigate to https://www.posti.fi/en/service-points-on-map
+1) User should be able to find nearest pickup points using a street address or Zip code (sample data:
+Tietajantie4 Espoo, Zip-02130).
+2) User can alternatively allow the location services and visualize all Posti service points nearby.
+3) While selecting only Postal outlets, search should display only selected information on the map.
+4) While using the map, user can hover over the highlighted service points to see the address, opening time,
+service facilities and days of service availability.
+5) User should see a dynamic view of highlighted service points under the heading Nearest service points along with the map.
+6) It should be possible to zoom in and out of the map and visualize it in full screen mode without issues.
+
+
+
+Navigate to https://www.posti.fi/en/private/parcels-and-tracking
+1) User can track the parcels without logging in to the application and see all the events applicable to the shipment
+(test data: CF753732593DE).
+
+2) Application must display a notice if shipments are not found “No items could be found based on the tracking code” and
+display other possible reasons why the shipment is not traceable.
+
+3) User can also send letters and mails using https://www.posti.fi/en/private/letters-and-mail and choosing products like
+letter or postcard https://www.posti.fi/en/private/letters-and-mail/send-a-letter-or-postcard without login.
+
+4) User should have the possibility to calculate the price of a letter by using
+https://www.posti.fi/en/private/letters-and-mail/send-a-letter-or-postcard/letter-price-calculator
