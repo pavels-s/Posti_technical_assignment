@@ -14,7 +14,7 @@ ${LETTERS_AND_MAILS_URL} =  https://www.posti.fi/en/private/letters-and-mail
 ${ACCEPT_COOKIES_BUTTON} =  id=onetrust-accept-btn-handler
 
 *** Test Cases ***
-User can send letters and mails and choosing products like without login
+User can send letters and mails and choosing products without login
     [Documentation]         Products should be chosen without login
     [Tags]                  P02-3   Smoke
     Log                     Starting testing: choosing products

@@ -41,7 +41,7 @@ User load "Letter price calculator" page
     Letter_price_calculator_PO.Verify calculator page is loaded
 
 User choose Albania as a destination country
-    Letter_price_calculator_PO.Choose country in a list
+    Letter_price_calculator_PO.Fill in necessary information
     Letter_price_calculator_PO.Submit your choice
 
 User get price for suitable product

@@ -24,7 +24,7 @@ Load calculator page
 Verify calculator page is loaded
     Wait Until Page Contains    ${CALCULATOR_MAIN_HEADING}
 
-Choose country in a list
+Fill in necessary information
     Run Keyword And Ignore Error  Scroll Element Into View          xpath=//h2[@class='sc-1ypvmfj-0 sc-4h7obl-4 kOjhpy']
     Input Text                          ${INPUT_COUNTRY_FIELD}      ${COUNRTY_FOR_INPUT}
     Wait Until Element Is Visible       ${SUBMIT_BUTTON}
